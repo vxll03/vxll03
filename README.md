@@ -8,6 +8,52 @@
 
 ---
 
+<svg width="650" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .tech-box {
+      fill: #e0e0e0;
+      stroke: #333;
+      stroke-width: 2;
+      rx: 10;
+      ry: 10;
+    }
+    .tech-text {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 18px;
+      fill: #333;
+      pointer-events: none;
+    }
+  </style>
+
+  <!-- Первая строка -->
+  <rect class="tech-box" x="10" y="10" width="150" height="80" />
+  <text x="85" y="55" text-anchor="middle" class="tech-text">C#</text>
+
+  <rect class="tech-box" x="170" y="10" width="150" height="80" />
+  <text x="245" y="55" text-anchor="middle" class="tech-text">Java</text>
+
+  <rect class="tech-box" x="330" y="10" width="150" height="80" />
+  <text x="405" y="55" text-anchor="middle" class="tech-text">SpringBoot</text>
+
+  <rect class="tech-box" x="490" y="10" width="150" height="80" />
+  <text x="565" y="55" text-anchor="middle" class="tech-text">Maven</text>
+
+  <!-- Вторая строка -->
+  <rect class="tech-box" x="10" y="100" width="150" height="80" />
+  <text x="85" y="145" text-anchor="middle" class="tech-text">React</text>
+
+  <rect class="tech-box" x="170" y="100" width="150" height="80" />
+  <text x="245" y="145" text-anchor="middle" class="tech-text">JS</text>
+
+  <rect class="tech-box" x="330" y="100" width="150" height="80" />
+  <text x="405" y="145" text-anchor="middle" class="tech-text">HTML</text>
+
+  <rect class="tech-box" x="490" y="100" width="150" height="80" />
+  <text x="565" y="145" text-anchor="middle" class="tech-text">CSS</text>
+</svg>
+
+---
+
 ## 🔥 Мои достижения и опыт
 
 ✅ **Профессиональный рост:** Регулярное изучение новых технологий и участие в конференциях  
