@@ -31,8 +31,7 @@
 
 ## 📫 Контакты
 
-- **Email:** [vell3.2@yandex.ru](mailto:vell3.2@yandex
-ru)  
+- **Email:** [vell3.2@yandex.ru](mailto:vell3.2@yandex.ru)  
 
 ---
 
