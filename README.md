@@ -1,56 +1,22 @@
-# Привет, я Тима! 👋
+<h1 align="center">Hi there, I'm Tim </h1>
+<h3 align="center">I'm programmer student</h3>
 
-Меня зовут **Тимофей**, я разработчик, увлечённый созданием качественного кода и современных решений.  
-**Основные технологии:**  
-- **Языки:** Java, C#
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Инструменты:** Git, VS Code, Postman
+<h4 align="center">Main technologies</h4> 
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
+</div>
 
 ---
 
-<svg width="650" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .tech-box {
-      fill: #e0e0e0;
-      stroke: #333;
-      stroke-width: 2;
-      rx: 10;
-      ry: 10;
-    }
-    .tech-text {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      font-size: 18px;
-      fill: #333;
-      pointer-events: none;
-    }
-  </style>
-
-  <!-- Первая строка -->
-  <rect class="tech-box" x="10" y="10" width="150" height="80" />
-  <text x="85" y="55" text-anchor="middle" class="tech-text">C#</text>
-
-  <rect class="tech-box" x="170" y="10" width="150" height="80" />
-  <text x="245" y="55" text-anchor="middle" class="tech-text">Java</text>
-
-  <rect class="tech-box" x="330" y="10" width="150" height="80" />
-  <text x="405" y="55" text-anchor="middle" class="tech-text">SpringBoot</text>
-
-  <rect class="tech-box" x="490" y="10" width="150" height="80" />
-  <text x="565" y="55" text-anchor="middle" class="tech-text">Maven</text>
-
-  <!-- Вторая строка -->
-  <rect class="tech-box" x="10" y="100" width="150" height="80" />
-  <text x="85" y="145" text-anchor="middle" class="tech-text">React</text>
-
-  <rect class="tech-box" x="170" y="100" width="150" height="80" />
-  <text x="245" y="145" text-anchor="middle" class="tech-text">JS</text>
-
-  <rect class="tech-box" x="330" y="100" width="150" height="80" />
-  <text x="405" y="145" text-anchor="middle" class="tech-text">HTML</text>
-
-  <rect class="tech-box" x="490" y="100" width="150" height="80" />
-  <text x="565" y="145" text-anchor="middle" class="tech-text">CSS</text>
-</svg>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Current+tech+to+learn:)](https://git.io/typing-svg)
 
 ---
 
