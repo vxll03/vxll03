@@ -16,40 +16,27 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Current+tech+to+learn:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Current+tech+to+learn)](https://git.io/typing-svg)
+<div>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img scr="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
 ---
 
-## 🔥 Мои достижения и опыт
+<h3>🌟 Current interests</h3>
 
-✅ **Профессиональный рост:** Регулярное изучение новых технологий и участие в конференциях  
-📝 **Практический опыт:** Разработка высоконагруженных систем и веб-приложений
-
----
-
-## 📊 Статистика GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxll03&show_icons=true&theme=radical)](https://github.com/vxll03)
+- Web application and microservices development
+- Learning new tools and programming languages
 
 ---
 
-## 🌟 Текущие интересы
+<h3>📫 Contacts</h3>
 
-- Разработка веб-приложений и микросервисов  
-- Изучение новых инструментов и языков программирования  
-- Участие в сообществе разработчиков и обмен опытом
+- **Email:** [vell3.2@yandex.ru](mailto:vell3.2@yandex.ru)
 
 ---
 
-## 📫 Контакты
-
-- **Email:** [vell3.2@yandex.ru](mailto:vell3.2@yandex.ru)  
-
----
-
-<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="300" height="80" rx="15" fill="#007acc"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="24">
-    Добро пожаловать!
-  </text>
-</svg>
+<h1 align="center">Welcome</h1>
