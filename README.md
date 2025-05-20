@@ -39,7 +39,9 @@
 
 ---
 
-| <img src="https://github-readme-stats.vercel.app/api?username=l1rn&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1rn&layout=compact&theme=bear&hide_border=true" /> |
+ <img src="https://github-readme-stats.vercel.app/api?username=vxll03&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en"> 
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxll03&layout=compact&theme=bear&hide_border=true" />
 
 ---
 
