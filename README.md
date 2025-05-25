@@ -7,27 +7,39 @@
 
 ---
 
-## 👇 About me
-- 🔙 Backend Developer
-- 📑 Learn **Django** right now
-- 📋 Working on a variety of projects
+<h3 align=center>👇 About me</h3>
+
+<div align=center>
+  
+  🔙 Backend Developer
+  
+  📑 Learn **Django** right now
+  
+  📋 Working on a variety of projects
+
+</div>
 
 ---
 
-## 🛠️ Languages and Technologies 
+<h3 align=center> 🛠️ Languages and Technologies </h3>
 
-  <img style="border:3px solid gray; padding: 10px; border-radius: 10px" src="https://skillicons.dev/icons?i=python,java,js,cs"/>
-  <img style="border:3px solid gray; padding: 10px; border-radius: 10px"  src="https://skillicons.dev/icons?i=django,fastapi,spring,dotnet,react"/>
-  <img style="border:3px solid gray; padding: 10px; border-radius: 10px"  src="https://skillicons.dev/icons?i=postman,postgres,git,github"/>
-  <img style="border:3px solid gray; padding: 10px; border-radius: 10px"  src="https://skillicons.dev/icons?i=html,css,scss"/>
+<div align=center>
+  <div><img style="border:3px solid gray; padding: 10px; border-radius: 10px" src="https://skillicons.dev/icons?i=python,java,js,cs"/></div>
+  <div><img style="border:3px solid gray; padding: 10px; border-radius: 10px"  src="https://skillicons.dev/icons?i=django,fastapi,spring,dotnet,react"/></div>
+  <div><img style="border:3px solid gray; padding: 10px; border-radius: 10px"  src="https://skillicons.dev/icons?i=postman,postgres,git,github"/></div>
+  <div><img style="border:3px solid gray; padding: 10px; border-radius: 10px"  src="https://skillicons.dev/icons?i=html,css,scss"/></div>
+</div>
 
 ---
 
-## 📫 Contacts
+<h3 align=center> 📫 Contacts </h3>
+
+<div align=center>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/v31103)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vell3.2@yandex.com)
+  
+</div>
 
 ---
 
