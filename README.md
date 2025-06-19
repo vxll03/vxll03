@@ -13,7 +13,7 @@
   
   🔙 Backend Developer
   
-  📑 Learn **Django** right now
+  📑 Learning **Microservices** right now
   
   📋 Working on a variety of projects
 
@@ -45,6 +45,9 @@
 
 <div align=center style="display: flex; flex-direction: column;">
  <img align=center src="https://github-readme-stats.vercel.app/api?username=vxll03&theme=bear&show_icons=true&hide_border=false&count_private=true&locale=en"> 
+</div>
+<br>
+<div align=center style="display: flex; flex-direction: column;">
  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxll03&layout=compact&theme=bear&hide_border=false" />
 </div>
 
